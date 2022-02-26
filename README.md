@@ -59,6 +59,8 @@ directly on windows without some modifications. In order to overcome this proble
  **`output_file`** = This is the name of the file in which you want to store the output.
 
  
+
+ 
  **A sample command would be like** - `C:/Users/shaki/Desktop/SCANNER/decaf_scanner/lexical_analyzer/workdir/exec.bat ./samples/badint.frag output.txt`
  
  where **`filepath_to_exec.bat`** = C:/Users/shaki/Desktop/SCANNER/decaf_scanner/lexical_analyzer/workdir/
